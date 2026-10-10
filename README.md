@@ -21,9 +21,11 @@ A clean and simple Android app for controlling home devices, built with **Java**
 
 ## 📱 Screens
 
-| Home | Room Details | Settings |
-|------|--------------|----------|
-| (screenshot) | (screenshot) | (screenshot) |
+<p align="center">
+  <img src="screenshots/home.png.jpeg" width="250" alt="Home screen" />
+  <img src="screenshots/room.png.jpeg" width="250" alt="Room details screen" />
+  <img src="screenshots/setting.png.jpeg" width="250" alt="Settings screen" />
+</p>
 
 ## 🚀 How to Run
 
@@ -35,4 +37,5 @@ A clean and simple Android app for controlling home devices, built with **Java**
 ## 👤 Author
 
 **Waleed Arshad**
+
 Android Developer
