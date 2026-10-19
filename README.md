@@ -39,3 +39,4 @@ A clean and simple Android app for controlling home devices, built with **Java**
 **Waleed Arshad**
 
 Android Developer
+LinkedIn: [Waleed Arshad](https://www.linkedin.com/in/waleed-arshad-1b0882288/)
